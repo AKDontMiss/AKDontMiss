@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on cross-disciplinary EE & software projects<br>👯 I’m looking to collaborate on integrating hardware with code<br>🤝 I’m looking to contribute to projects that leave a mark<br>🌱 I’m currently learning to apply my EE knowledge on hobby projects<br>⚡ Fun fact I own more jumper wires than pairs of socks, and I haven't released the "magic smoke" ...this week."
+# About Me:
+🔭 I’m currently working on EE & software projects<br>👯 I’m looking to collaborate on integrating hardware with code<br>🤝 I’m looking to contribute to projects that leave a mark<br>🌱 I’m currently learning to apply my EE knowledge on hobby projects<br>⚡ Fun fact: I own more jumper wires than pairs of socks, and I haven't released the "magic smoke" ...this week."
 
 
 ## 🌐 Socials:
