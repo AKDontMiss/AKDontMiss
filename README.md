@@ -1,9 +1,33 @@
-# About Me:
-🔭 I’m currently working on EE & software projects<br>👯 I’m looking to collaborate on integrating hardware with code<br>🤝 I’m looking to contribute to projects that leave a mark<br>🌱 I’m currently learning to apply my EE knowledge on hobby projects<br>⚡ Fun fact: I own more jumper wires than pairs of socks, and I haven't released the "magic smoke" ...this week."
+<img src="KTH_logo.png" alt="KTH Royal Institute of Technology" align="right" height="64">
 
+### Akram H. Ahmed
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akram-ahmed-64a053192/) 
+<hr align="left" width="80%">
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+[Electrical engineering, civilingenjör 300 hp](https://www.kth.se/utbildning/civilingenjor/elektroteknik/elektroteknik-civilingenjor-300-hp-1.6481) at KTH, pursuing a master's in [embedded systems](https://www.kth.se/en/studies/master/embedded-systems/msc-embedded-systems-1.70455).
+
+I build complete applications in my own time. They are how I find out where system design actually bites: what breaks on a real network, what a background service does on a real phone overnight, and where machine learning earns its place rather than being decoration.
+
+#### Selected work
+
+##### [Auvy](https://github.com/AKDontMiss/Auvy)
+
+Music, podcasts and radio for Android. Flutter front end over native media3/ExoPlayer playback, with a Cloudflare Worker fronting seven third-party APIs. Around 100k lines of Dart, 421 tests.
+
+##### [BSc_Thesis](https://github.com/AKDontMiss/BSc_Thesis)
+
+An open-source Phasor Measurement Unit. Real-time Enhanced Interpolated DFT in Python and C++, with MATLAB simulations and 3D CAD models.
+
+#### Tools
+
+##### Languages
+
+![C++](https://img.shields.io/badge/C%2B%2B-4c566a?style=flat-square) ![Python](https://img.shields.io/badge/Python-4c566a?style=flat-square) ![Java](https://img.shields.io/badge/Java-4c566a?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-4c566a?style=flat-square) ![Dart](https://img.shields.io/badge/Dart-4c566a?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-4c566a?style=flat-square) ![MATLAB](https://img.shields.io/badge/MATLAB-4c566a?style=flat-square)
+
+##### Frameworks and libraries
+
+![Flutter](https://img.shields.io/badge/Flutter-4c566a?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-4c566a?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-4c566a?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-4c566a?style=flat-square)
+
+##### Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-4c566a?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-4c566a?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-4c566a?style=flat-square) ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-4c566a?style=flat-square)
